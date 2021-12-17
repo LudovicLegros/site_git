@@ -6,3 +6,8 @@ body {
 nav {
     background-color: brown;
 }
+
+p{
+    font-size:20px;
+    color:blue;
+}
